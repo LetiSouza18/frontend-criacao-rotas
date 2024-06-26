@@ -1,4 +1,4 @@
-import CadastroNoticiaForm from "@/components/CadastroNoticiaForm";
+import CadastroNoticiaForm from "../../../../../components/CadastroNoticiaForm";
 
 function NoticiaCriarPage () {
     <div>
